@@ -14,7 +14,7 @@ It demonstrates skills in **data science, backend APIs, frontend development, an
 ## 📸 Demo
 
 ![Dashboard Screenshot](docs/demo.png)  
-*(Add a screenshot or GIF of your running app here — recruiters love visuals!)*
+
 
 ---
 
@@ -164,3 +164,4 @@ Built with ❤️ using:
 Python, FastAPI, scikit-learn, joblib (backend & ML)
 
 React, Vite, TailwindCSS, Recharts, Axios (frontend)
+
